@@ -54,6 +54,8 @@ It is fast and free.  Once you are registered, visit the Wordpress page under th
 
 1. After publishing a blog post...
 
+2. Example of an embeded content...
+
 == Changelog ==
 = 1.3 =
 * Minor Fixes
