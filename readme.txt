@@ -10,7 +10,7 @@ Requires at least: 3.0
 Tested up to: 4.0
 Donate link: https://pledgie.com/campaigns/26781
 
-Plugin for embedding of full-text free content articles for your blog. Adds SEO to your blog with automated metadata creation through Open Graph Protocol metas.
+Plugin for embedding of full-text free content articles for your blog. Adds SEO to your blog with automated metadata creation through ogp.me metas.
 
 == Description ==
 
@@ -38,7 +38,7 @@ Plugin for embedding of full-text free content articles for your blog. Adds SEO 
 </ul>
 </div>
 </div>
-<p><h4><strong><a href='https://pledgie.com/campaigns/26781' target='_new'>Support and Donate</a></strong></h4></p>
+<p><a href='https://pledgie.com/campaigns/26781' target='_new'><h4><strong>Support and Donate</strong></h4></a></p>
 
 == Installation ==
 
