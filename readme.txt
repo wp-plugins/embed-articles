@@ -13,7 +13,7 @@ Donate link: https://pledgie.com/campaigns/26781
 Embed any article or post from your blog to any other external blog or website. Add SEO to your blog with automated Open Graph Protocol meta creation.
 
 == Description ==
-<div style="margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
 = Introduction =
 </div>
 Embed Articles wordpress plugin is a plugin designed to make your posts and your entire blog discoverable by valid crawlers.
@@ -24,7 +24,7 @@ The plugin allows every wordpress author to embed a summary of any content websi
 
 This plugin also helps your blog in terms of SEO. By installing this plugin into your blog, your blog will be automatically be added with proper Open Graph Protocol metadatas which are being respected and parsed by most search engines like Google, Bing, and Yahoo.
 
-<div style="margin-top: 10px; margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
 = Features =
 </div>
 
@@ -40,7 +40,7 @@ This plugin also helps your blog in terms of SEO. By installing this plugin into
 
 6. Adds visibility and gets your blog content discovered by other curation and discovery systems through the Open Graph API and Schema.org scopes.
 
-<div style="margin-top: 10px; margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
 = Support =
 </div>
 
