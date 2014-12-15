@@ -4,7 +4,7 @@ Plugin URI: http://embedarticles.com
 Tags: plugin, admin, image, widget, embed, embed article, embed articles, free articles, google, Post, posts, comments, twitter, images, embed free articles, SEO, search engine optimization, article, shortcode, shortcodes, embed shortcodes, metadata, open graph, schema, oembed, iframe, widgets, widget, ezine articles, free ezine articles, full-text content
 Author: EmbedArticles.com
 Contributors: gprialde
-Version: 6.0.6
+Version: 6.0.7
 Author URI: http://embedarticles.com
 Requires at least: 3.0
 Tested up to: 4.0     
