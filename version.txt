@@ -1,0 +1,1 @@
+ver-wp-plugin-6.0.23
